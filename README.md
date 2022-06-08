@@ -12,17 +12,28 @@
 4. Find exact latent by optimize it using gradient descent
 ```
 
+## Encoder
+```
+Encoder extract features via modified Resnet-50
+Loss was only MSE, ppl need to be added
+```
+
+
 1. ### Image
 ![Menu](bradley_cooper.jpg)
 
 2. ### Aligned
 ![Menu](face_aligned.png)
 
-3. ### Encoder latent
+3. ### Only Gradient descent result (from 0-vector)
+![Menu](only_projector.png)
+
+4. ### Encoder latent
 ![Menu](encoder_img.png)
 
-4. ### Gradient_descent
+5. ### Encoder + Gradient descent
 ![Menu](Projector.png)
+
 
 
 With latent vectors you can make a lot of transformation, look at my other repo!

@@ -48,3 +48,5 @@ https://arxiv.org/abs/1904.03189
 http://www.seeprettyface.com/research_notes.html
 
 https://github.com/zaidbhat1234/Image2StyleGAN
+
+https://github.com/AmarSaini/Epoching_StyleGan2_Setup

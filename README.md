@@ -18,6 +18,8 @@ Encoder extract features via modified Resnet-50
 Loss was only MSE, ppl need to be added
 ```
 
+0. ### Column
+![Menu](Column.png)
 
 1. ### Image
 ![Menu](bradley_cooper.jpg)
